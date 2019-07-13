@@ -1,0 +1,2 @@
+# Antonis
+Hello to group.I want to ask a question because I am a begginer. I have a boat and I want to place an ardupilot. The only Mode i Will work is 'LOITER MODE' ,which it Will control three servo motors.Can you tell me exactly what to get and with which Additional accessories to link it? Probably ardupilot+gps+compass+barometer+gyroscope+air speed sensor, something more or something less? Thanks in advance.
